@@ -2,7 +2,7 @@
 
 ## 1. Elasticsearch
 
-[黑马Elasticsearch全套教程](https://www.bilibili.com/video/BV1b8411Z7w5/?share_source=copy_web)
+- [黑马Elasticsearch全套教程](https://www.bilibili.com/video/BV1b8411Z7w5/?share_source=copy_web)
 
 <br>
 
